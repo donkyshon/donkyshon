@@ -3,11 +3,8 @@
 <h1 align="center">Hi, I'm donkyshon</h1>
 
 
-## 🚀 Tools:
+## 🚀 Streak:
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Mevans succ;Average+TOS+enjoyer;"/>
-</p>
 <p align="center">
     <a href="https://github.com/donkyshon/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="donkyshon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=donkyshon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -16,7 +13,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+  <br/> 
     <a href="https://github.com/donkyshon/github-readme-stats"><img alt="donkyshon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=donkyshon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/donkyshon/github-readme-stats"><img alt="donkyshon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkyshon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -38,3 +35,4 @@
 <a href = "https://guilded.gg/donkyshon"><img src="https://img.icons8.com/fluency/48/000000/guilded.png"/></a>
 
 </p>
+
