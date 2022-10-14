@@ -31,8 +31,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://t.me/show_144"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
-<a href = "https://guilded.gg/donkyshon"><img src="https://img.icons8.com/fluency/48/000000/guilded.png"/></a>
+<a href = "https://t.me/dankesch0n"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
 
 </p>
 
