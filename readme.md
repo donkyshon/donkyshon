@@ -31,7 +31,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://t.me/dankesch0n"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
+<a href = "https://t.me/donkyshon"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
 
 </p>
 
