@@ -1,37 +1,9 @@
-</details>
+<div align="center">
 
-<h1 align="center">Hi, I'm donkyshon</h1>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donkyshon&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donkyshon&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donkyshon&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donkyshon&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donkyshon&theme=nord_dark&utcOffset=8)
 
-
-## 🚀 Streak:
-
-<p align="center">
-    <a href="https://github.com/donkyshon/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="donkyshon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=donkyshon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/> 
-    <a href="https://github.com/donkyshon/github-readme-stats"><img alt="donkyshon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=donkyshon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/donkyshon/github-readme-stats"><img alt="donkyshon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkyshon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=donkyshon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://t.me/donkyshon"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
-
-</p>
-
+</div>
